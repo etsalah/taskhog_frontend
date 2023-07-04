@@ -4,6 +4,6 @@ chardet==3.0.4
 idna==2.7
 Jinja2==2.10
 MarkupSafe==1.1.0
-requests==2.20.1
+requests==2.31.0
 urllib3==1.26.5
 WTForms==2.2.1
